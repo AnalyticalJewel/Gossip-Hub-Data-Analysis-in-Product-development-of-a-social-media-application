@@ -1,5 +1,4 @@
-# Gossip-Hub-Data-Analysis-in-Product-development-of-a-social-media-application
-
+# Product Development of Instant Messaging Application: Gossip Hub - Analysis
 About Me:
 Hello! I'm Jewel Alam, and I have a wide academic background, including a bachelor's and master's degree in pharmacy. However, my passion is in the field of data analysis. This interest encouraged me to make a bold decision in my last year. I skipped the campus placement session to delve more into the topic of data analytics. 
 
