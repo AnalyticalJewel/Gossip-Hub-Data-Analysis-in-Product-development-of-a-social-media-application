@@ -26,4 +26,27 @@ decisions, ensuring that Gossip Hub connects with its target audience and distin
 competitive market.
 # Results:
 1. **The Data Analysis Dashboard:**
-   
+![Gossihub_result_1](https://github.com/user-attachments/assets/f2522ecd-3c5b-4571-93b6-3c95a2d84fad)
+Figure 1: The most popular version of Whatsapp 
+
+## Conclusion: 
+1. The WhatsApp version 2.24.8.85 have the greatest number of thumbs up 
+2. Considering the rating frequency, this version is the most liked version among the 
+Population as compared to the other versions
+
+**We can include the unique features of the WhatsApp version 2.24.8.85 in our app Gossip Hub.
+The unique features are:**
+
+**A. App Navigation:**
+The app's navigation has been redesigned with tabs positioned at the bottom of the screen. 
+Users can now effortlessly access Chats, Updates, Communities, and Calls by tapping these 
+bottom tabs.
+
+**B. Screen Sharing during Video Calls:**
+The screen sharing during video calls, which now includes the ability to share audio. This 
+feature enhances collaborative communication and usability during video interactions.
+
+**C. Facial Unlock Feature:**
+The facial unlock feature, adding an additional layer of security. This functionality is 
+activated through necessary server-side updates, ensuring secure and seamless user 
+authentication.
